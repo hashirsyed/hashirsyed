@@ -35,7 +35,7 @@ Fuelled by an insatiable passion for the art of software craftsmanship, I unleas
 
 
 <!--
-**umairian/umairian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hashirsyed/hashirsyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
