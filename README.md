@@ -1,15 +1,15 @@
-## 👋 Welcome to my GitHub world, where innovation meets code - [Umair Syed](https://github.com/umairian)
+## 👋 Welcome to my GitHub world, where innovation meets code - [Hashir Syed](https://github.com/hashirsyed)
 
 
-![Umair Syed](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=Frontend+Developer)
+![Hashir Syed](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=Frontend+Developer)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/umairian/">
-  <img src="https://img.shields.io/badge/linkedin-Umair%20Syed-blue?style=flat-square&logo=linkedin">
+ <a href="https://www.linkedin.com/in/hashir-syed/">
+  <img src="https://img.shields.io/badge/linkedin-Hashir%20Syed-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:itsumairsyed@gmail.com">
-  <img src="https://img.shields.io/badge/Email-itsumairsyed%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+ <a href="mailto:itshashirsyed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-itshashirsyed%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
 
@@ -21,14 +21,13 @@
 Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my creativity through elegant code, breathing life into extraordinary digital realms.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairian&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirsyed&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=umairian&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umairian&theme=react&hide_border=false" alt="yensubldg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirsyed&theme=react&hide_border=false" alt="yensubldg" />
 <br>
 
 ### 🛠️ Core Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-![HTML]([ht](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html))
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
