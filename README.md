@@ -5,10 +5,10 @@
 
 
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/umairian/">
-  <img src="https://img.shields.io/badge/linkedin-Umair%20Syed-blue?style=flat-square&logo=linkedin">
+ <a href="https://www.linkedin.com/in/hashir-syed/">
+  <img src="https://img.shields.io/badge/linkedin-Hashir%20Syed-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:itsumairsyed@gmail.com">
+ <a href="mailto:itshashirsyed@gmail.com">
   <img src="https://img.shields.io/badge/Email-itsumairsyed%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
