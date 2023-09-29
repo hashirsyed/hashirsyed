@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/hashir-syed/">
   <img src="https://img.shields.io/badge/linkedin-Hashir%20Syed-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:itshashirsyed@gmail.com">
+ <a href="[itshashirsyed@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvpbSxzmWXMCGBNFcRzqMLcDhqVCjLWjdpsxMPwGVrWDFgHcQRbfrtwWPntMklFBbllMXV)">
   <img src="https://img.shields.io/badge/Email-itshashirsyed%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
