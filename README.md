@@ -18,12 +18,11 @@
 - ⚡ Though I worked in vast pool of technologies, but my expertise are Web and Mobile frontend/backend/full stack applications. 
 <br>
 
-Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my creativity through elegant code, breathing life into extraordinary digital realms.
+Fuelled by an insatiable passion for the art of software craftsmanship, I unleash my<br> creativity through elegant code, breathing life into extraordinary digital realms.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirsyed&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
-![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=hashirsyed&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirsyed&theme=react&hide_border=false" alt="yensubldg" />
+![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=hashirsyed&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
 <br>
 
 ### 🛠️ Core Technologies
