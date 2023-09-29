@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/hashir-syed/">
+ <a href="[https://www.linkedin.com/in/hashir-syed/]">
   <img src="https://img.shields.io/badge/linkedin-Hashir%20Syed-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="[itshashirsyed@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvpbSxzmWXMCGBNFcRzqMLcDhqVCjLWjdpsxMPwGVrWDFgHcQRbfrtwWPntMklFBbllMXV)">
