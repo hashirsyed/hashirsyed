@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirsyed&label=Profile%20views&color=0e75b6&style=flat" alt="hashirsyed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hashirsyed88" target="blank"><img src="https://img.shields.io/twitter/follow/hashirsyed88?logo=twitter&style=for-the-badge" alt="hashirsyed88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hashirsyed88" target="_blank"><img src="https://img.shields.io/twitter/follow/hashirsyed88?logo=twitter&style=for-the-badge" alt="hashirsyed88" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hashirsyed88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hashirsyed88" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hashir syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashir syed" height="30" width="40" /></a>
-<a href="https://fb.com/hashir syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashir syed" height="30" width="40" /></a>
+<a href="https://twitter.com/hashirsyed88" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hashirsyed88" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hashir syed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashir syed" height="30" width="40" /></a>
+<a href="https://fb.com/hashir syed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashir syed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
