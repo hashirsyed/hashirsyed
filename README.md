@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashirsyed&label=Profile%20views&color=0e75b6&style=flat" alt="hashirsyed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hs8here" target="_blank"><img src="https://img.shields.io/twitter/follow/hashirsyed88?logo=twitter&style=for-the-badge" alt="hashirsyed88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hs8here" target="_blank"><img src="https://img.shields.io/twitter/follow/hs8here?logo=twitter&style=for-the-badge" alt="hs8here" /></a> </p>
 
 <h3 align="left">Kindly Visit:</h3>
 <p align="left">
